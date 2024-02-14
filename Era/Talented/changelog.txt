@@ -1,6 +1,6 @@
 v231130-Era
     - Fix Era version by re-adding LibGratuity (sorry)
-	- Fix talent links (Ulidan).
+	- Fix talent links (@Ulidan).
 
 v230930
     - Era: Add zhCN localisation (thanks @maxevil05).
